@@ -45,7 +45,6 @@ button {
     width: 75%;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 20%;
 }
 .col-4 {
     padding: 0 !important;
@@ -63,4 +62,13 @@ button {
     font-weight: 350;
     font-size: large;
     margin-left: 10%;
+}
+#cafereview {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    align-items: center;
+    text-align: center;
+    width: 75%;
+    margin-bottom: 20%;
 }
